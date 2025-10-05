@@ -1,0 +1,1 @@
+/Users/mac/Lukas/Smartelco\ SST/rust-crate/say-hello/target/package/say-hello-lukas-0.1.0/target/debug/libsay_hello_lukas.rlib: /Users/mac/Lukas/Smartelco\ SST/rust-crate/say-hello/target/package/say-hello-lukas-0.1.0/src/lib.rs
