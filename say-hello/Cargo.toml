@@ -1,5 +1,5 @@
 [package]
-name = "say-hello"
+name = "say-hello-lukas"
 version = "0.1.0"
 edition = "2024"
 description = "Basic say-hello library for learning crates"
